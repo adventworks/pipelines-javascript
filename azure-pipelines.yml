@@ -12,5 +12,3 @@ steps:
   inputs:
     azureSubscriptionEndpoint: 'Build_Eng (3f56da7f-5953-4018-8ca8-e20dbfa0a7e2)'
     azureContainerRegistry: adventworks.azurecr.io
-
-
